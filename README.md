@@ -1,28 +1,17 @@
-# Tasca_M3_T01
-
-Descripció
+#Numerical programming exercises.
 
 
+- Exercise 1
+Create a function that, given a one-dimensional array, gives a basic statistical summary of the data. If it detects that the array has more than one dimension, it must display an error message.
 
 
-Exercicis de programació numèrica.
+- Exercise 2
+Create a function that generates an NxN square of random names between 0 and 100.
 
 
-
-- Exercici 1
-Crea una funció que donat un Array d’una dimensió, et faci un resum estadístic bàsic de les dades. Si detecta que l’array té més d’una dimensió, ha de mostrar un missatge d’error.
-
+- Exercise 3
+Create a function that, given a table of two dimensions (NxM), calculates the totals per row and the totals per column.
 
 
-- Exercici 2
-Crea una funció que et generi un quadrat NxN de nombres aleatoris entre el 0 i el 100.
-
-
-
-- Exercici 3
-Crea una funció que donada una taula de dues dimensions (NxM), et calculi els totals per fila i els totals per columna.
-
-
-
-- Exercici 4
-Implementa manualment una funció que calculi el coeficient de correlació. Informa-te'n sobre els seus usos i interpretació.
+- Exercise 4
+Manually implement a function that calculates the correlation coefficient. Inform yourself about its uses and interpretation.
